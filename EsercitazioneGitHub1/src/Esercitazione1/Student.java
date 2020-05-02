@@ -12,6 +12,10 @@ public class Student {
 		this.matricola = matricola+1;
 	}
 	
+	public String  toString() {
+		return "numero :" + matricola;
+	}
+	
 	//hashcode and equals
 	@Override
 	public int hashCode() {
