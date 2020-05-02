@@ -12,6 +12,11 @@ public class Student {
 		this.matricola = matricola+1;
 	}
 	
+	public void Inutile() {
+		int i=0;
+		i++;
+	}
+	
 	//hashcode and equals
 	@Override
 	public int hashCode() {
