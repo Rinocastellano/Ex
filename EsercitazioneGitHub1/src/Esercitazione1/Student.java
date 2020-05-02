@@ -12,8 +12,14 @@ public class Student {
 		this.matricola = matricola+1;
 	}
 	
+<<<<<<< HEAD
 	public String  toString() {
 		return "numero :" + matricola; //okok
+=======
+	public void Inutile() {
+		int i=0;
+		i++;
+>>>>>>> refs/heads/local1
 	}
 	
 	//hashcode and equals
