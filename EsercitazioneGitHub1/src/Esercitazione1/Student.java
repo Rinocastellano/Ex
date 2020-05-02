@@ -13,7 +13,7 @@ public class Student {
 	}
 	
 	public String  toString() {
-		return "numero :" + matricola;
+		return "numero :" + matricola; //okok
 	}
 	
 	//hashcode and equals
