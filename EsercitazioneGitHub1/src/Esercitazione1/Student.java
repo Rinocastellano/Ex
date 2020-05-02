@@ -9,7 +9,7 @@ public class Student {
 		super();
 		this.nome = nome;
 		this.cognome = cognome;
-		this.matricola = matricola;
+		this.matricola = matricola+1;
 	}
 	
 	//hashcode and equals
